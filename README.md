@@ -1,2 +1,1 @@
-We're gonna use HTML and javascript
-This is a simple UI for our fundme smart contract in the hardhat-fundme project
+This is a simple UI that uses HTML and Javascript for our fundme smart contarct 
